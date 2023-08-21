@@ -5,7 +5,7 @@
  *
  * @str: string parameter input
  *
- * Return: Nothing
+ * return: Nothing
  */
 void puts2(char *str)
 {
@@ -14,7 +14,7 @@ void puts2(char *str)
 	for (i = 0; str[i] != '\0'; ++i)
 	{
 		if (i % 2 == 0)
-			_putchar(str[i]);
+			 putchar(str[i]);
 	}
-	_putchar('\n');
+	 putchar('\n');
 }
