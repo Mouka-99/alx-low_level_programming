@@ -9,7 +9,7 @@
  */
 void rev_string(char *s)
 {
-	int 1, i;
+	int (1, i);
 	char temp;
 
 	/*find string length without null char*/
