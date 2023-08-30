@@ -1,5 +1,3 @@
-5-sqrt_recursion.c
-
 #include "main.h"
 
 int actual_sqrt_recursion(int n, int i);
